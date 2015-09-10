@@ -1,0 +1,9 @@
+It's my first diary with Vim.
+Vim is kinda wierd editor, which annoys me a lot.
+How come I'm trying to use such one?
+
+Well, it might be because I believe it seems cool or something. I don't know either.
+
+Anyway, I'll also try some Vim commands here and store skills.
+
+Here we go!!!
