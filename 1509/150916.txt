@@ -1,0 +1,4 @@
+Read vim book of O'REILLY. Too nice!!!
+Practiced ROS on Matlab. The cause was firewall but I don't get inside of it yet. I'll ask that the support of mathworks tomorrow.
+
+Next, I'll learn practical vim with sample files!! yeah!!
