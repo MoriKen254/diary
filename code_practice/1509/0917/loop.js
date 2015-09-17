@@ -6,6 +6,7 @@
  * We make no guarantees that this code is fit for any purpose. 
  * Visit http://www.pragmaticprogrammer.com/titles/dnvim for more book information.
 ***/
-#define PORT 9
-
-void generatePacket(uint8_t *, uint8_t *);
+var counter;
+for (counter=1; counter <= 10; counter++) {
+  // do something with counter
+};

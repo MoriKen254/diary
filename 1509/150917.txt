@@ -1,0 +1,10 @@
+I kinda finished practical vim.
+sooooooo great editor it is!!!
+really wanna be a vim master!
+
+and touched a urdf stuff too.
+I'll be able to control a defined robot from a node and show that in rviz.
+
+After that, Hotta's wedding party and USJ! Sooooo pumped!!
+
+Also wanna study ROS Indigo example book. I'll work on that in Sendai:-)
