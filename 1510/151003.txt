@@ -1,1 +1,12 @@
 Hi, long time no see!
+
+There were lots of things I did these days.
+
+Well, anyway, I won the best paper award in FAN2015!
+
+And I just got started SLAM stuff for Tsukuba Challnege.
+
+Also built up some environment setting on vim and git.
+vim-prompt seems supur cool!
+
+Anyway, I must learn ROS SLAM! Here we go!!!
